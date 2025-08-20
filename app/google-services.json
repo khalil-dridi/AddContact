@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466570405732",
+    "project_id": "addcontact-c3a0e",
+    "storage_bucket": "addcontact-c3a0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466570405732:android:a9e2055c7365a0e2217c71",
+        "android_client_info": {
+          "package_name": "com.example.addcontact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYLGBCZHqAKEjCxqavv3cyF5U12W_n64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
